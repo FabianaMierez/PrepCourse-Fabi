@@ -1,2 +1,2 @@
-# PrepCourse-Fabi
-Repositorio de prueba del modulo 2 PrepCourse Henry
+#Ensayo de como crear un repositorio y clonarlo desde git hub a mi escritorio local...
+
